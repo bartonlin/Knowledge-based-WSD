@@ -1,14 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
-"""
-@version:  1.0
-@author:   @@@
-@file:     main_algorithm.py
-@time:     2018-06-11
-@function: conduct similarity and graph-based method of WSD
-"""
-
 from nltk.corpus import wordnet as wn
 from tqdm import tqdm
 import re
